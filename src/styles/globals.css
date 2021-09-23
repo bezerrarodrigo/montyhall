@@ -1,3 +1,9 @@
+:root {
+  --area-porta-altura: 310px;
+  --area-porta-largura: 200px;
+}
+
+
 html,
 body {
   padding: 0;
